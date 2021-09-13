@@ -1,0 +1,7 @@
+{"sender":"a","receiver":"a","amount":"0","date":"12-06-2021"}
+{"sender":"bank","receiver":"s@gmail.com","amount":"1200","date":"26-06-2021"}
+{"sender":"imrul@gmail.com","receiver":"bank","amount":"180","date":"26-06-2021"}
+{"sender":"sw@gmail.com","receiver":"bank","amount":"2000","date":"26-06-2021"}
+{"sender":"bank","receiver":"s@gmail.com","amount":"3000","date":"26-06-2021"}
+{"sender":"bank","receiver":"imrul@gmail.com","amount":"170","date":"26-06-2021"}
+{"sender":"imrul@gmail.com","receiver":"bank","amount":"5000","date":"26-06-2021"}

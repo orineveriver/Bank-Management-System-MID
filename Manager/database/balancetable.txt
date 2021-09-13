@@ -1,0 +1,3 @@
+{"username":"imrul@gmail.com","accno":"10001","type":"customer","balance":"4990"}
+{"username":"s@gmail.com","accno":"10002","type":"customer","balance":"13000"}
+{"username":"sw@gmail.com","accno":10005,"type":"customer","balance":"10000"}

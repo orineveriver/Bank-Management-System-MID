@@ -1,0 +1,8 @@
+{"username":"admin","password":"admin","type":"admin","status":"active"}
+{"username":"imrul@gmail.com","password":"kkkkkkkk","type":"customer","status":"active"}
+{"username":"s@gmail.com","password":"aaaaaaaa","type":"customer","status":"active"}
+{"username":"n@gmail.com","password":"asasaafs","type":"cashier","status":"active"}
+{"username":"sa@gmail.com","password":"asdfasdf","type":"caashier","status":"active"}
+{"username":"sw@gmail.com","password":"mmmmmmmm","type":"customer","status":"active"}
+{"username":"orin@gmail.com","password":"22222222","type":"maneger","status":"active"}
+{"username":"asma@gmail.com","password":"asasasas","type":"manager","status":"active"}

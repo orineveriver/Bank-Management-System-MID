@@ -1,0 +1,7 @@
+{"firstname":"Imrul","lastname":"Afnan","nid":"0130130131013","dob":"1999-12-24","gender":"male","email":"imrul@gmail.com","phone":"017-89765897","nnid":"0120120120128","type":"customer","accno":"10001"}
+{"firstname":"Soumik","lastname":"Kumar","nid":"6789547890564","dob":"2021-06-23","gender":"male","email":"s@gmail.com","phone":"017-17386009","nnid":"6789542389564","type":"customer","accno":"10002"}
+{"firstname":"Nayem","lastname":"Khann","nid":"9089765478642","dob":"2021-07-07","gender":"male","email":"n@gmail.com","phone":"017-98767876","nnid":null,"type":"cashier","accno":"80001"}
+{"firstname":"sayma","lastname":"Khanam","nid":"0988967542354","dob":"2021-06-02","gender":"female","email":"sa@gmail.com","phone":"017-09890985","nnid":null,"type":"cashier","accno":"80002"}
+{"firstname":"swajon","lastname":"rahman","nid":"0987657890364","dob":"2021-06-01","gender":"male","email":"sw@gmail.com","phone":"018-98787645","nnid":"0987657890364","type":"customer","accno":"10003"}
+{"firstname":"Varsin","lastname":"chowdhury","nid":"9384756384956","dob":"2021-06-10","gender":"male","email":"a@gmail.com","phone":"017-46375847","nnid":null,"type":"manager","accno":"90001"}
+{"firstname":"Asma","lastname":"Sathi","nid":"1234567891011","dob":"2021-06-09","gender":"female","email":"asma@gmail.com","phone":"019-84374635","nnid":null,"type":"manager","accno":"90002"}
